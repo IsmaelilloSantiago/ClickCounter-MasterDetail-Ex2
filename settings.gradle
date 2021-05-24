@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ClickCounter-MasterDetail-Ex2'

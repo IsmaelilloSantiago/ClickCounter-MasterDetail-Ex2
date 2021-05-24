@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Click Counter</string>
+
+    <string name="title_master">Master Screen</string>
+    <string name="title_detail">Detail Screen</string>
+
+    <string name="counter_label">Counter</string>
+    <string name="clicks_label">Clicks</string>
+</resources>
